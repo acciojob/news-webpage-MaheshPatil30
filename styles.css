@@ -12,21 +12,22 @@
 	
 	background-color:#011e29;
 	color:white;
+	text-align:center;
 	padding:5px;
 	
 	
 }
 .header>h2{
 	background-color:#011e29;
-	text-align:center;
 	
 }
 
 .latest-news-section{
 	
-	width:200px;
+	width:300px;
 	height:200px;
 	padding:10px;
+	background-color:white;
 	margin-right:10px;
 	border-radius:10px;
 	text-align:center;
@@ -39,6 +40,8 @@
 	height:200px;
 	padding:10px;
 	margin-right:10px;
+	background-color:white;
+	border-radius:10px;
 	text-align:center;
 }
 
@@ -46,6 +49,8 @@
 
 	width:200px;
 	height:400px;
+	background-color:white;
+	border-radius:10px;
 	text-align:center;
 	padding:10px;
 	
